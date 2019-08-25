@@ -1,0 +1,18 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFECE62ED",
+    "servers": [
+      {
+        "server_address": "router.eu.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": 9.64846975,
+    "ref_longitude": 48.71563482,
+    "ref_altitude": 348,
+    "contact_email": "ttn-operator@hillx.de",
+    "description": "Smart-Campus UTFPR"
+  }
+}
